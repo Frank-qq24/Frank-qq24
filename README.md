@@ -4,10 +4,7 @@
 </p>
 <br>
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
-
-<br><br>
-
-
+<br>
 - :school: I am a `Student` at [Faculty of engineering and management](https://www.untels.edu.pe/) at [Universidad Nacional Tecnologica de Lima Sur](https://www.untels.edu.pe/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
