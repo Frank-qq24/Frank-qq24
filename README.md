@@ -2,6 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://media.licdn.com/dms/image/D4E16AQE4NOLq8Z6twQ/profile-displaybackgroundimage-shrink_350_1400/0/1675731150018?e=1700092800&v=beta&t=vRPwqbedd3h_xEpZAZuKkdxDjJgjm_qN-7svAEqICR4"></a>
 </p>
+<br>
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <br><br>
 
 - :school: I am a `Student` at [Faculty of engineering and management](https://www.untels.edu.pe/) at [Universidad Nacional Tecnologica de Lima Sur](https://www.untels.edu.pe/).
